@@ -8,13 +8,11 @@
 1. [Tecnologías Utilizadas](#tecnologías-utilizadas)
 2. [Estructura del Proyecto](#estructura-del-proyecto)
 3. [Características Clave](#características-clave)
-4. [Arquitectura](#arquitectura)
 5. [Configuración e Instalación](#configuración-e-instalación)
 6. [Uso](#uso)
 7. [Endpoints](#endpoints)
 8. [Manejo de Excepciones](#manejo-de-excepciones)
-9. [Contribuciones](#contribuciones)
-10. [Licencia](#licencia)
+
 
 ## Tecnologías Utilizadas
 - **Java 17**
